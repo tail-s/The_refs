@@ -1,4 +1,4 @@
-What is its purpose?
+## What is its purpose?
 
 As the influx of funds into Bitcoin through ETFs becomes more common, various cryptocurrency projects are being launched, employing traditional promotional methods such as referrals and airdrop missions. Referrals, in particular, have garnered a negative reputation, especially when associated with futures exchanges, likely due to the concentration of earnings among specific individuals.
 
