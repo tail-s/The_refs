@@ -1,0 +1,7 @@
+What is its purpose?
+
+As the influx of funds into Bitcoin through ETFs becomes more common, various cryptocurrency projects are being launched, employing traditional promotional methods such as referrals and airdrop missions. Referrals, in particular, have garnered a negative reputation, especially when associated with futures exchanges, likely due to the concentration of earnings among specific individuals.
+
+One of the primary functions of this project is to decentralize referral earnings, aiming to distribute them more evenly among a diverse group of participants. Referrals are indeed an excellent means of promoting new projects. However, ordinary users participating in these referrals find themselves at a significant disadvantage compared to major influencers. Hence, instead of aspiring to become influencers, ordinary users are encouraged to join this platform and assist in introducing new users to new projects, thereby increasing their chances of earning referral rewards.
+
+Another main feature is the community platform. Applying the fundamental essence of blockchain, which is to 'spend money to store value,' to the community, it enables the permanent recording of issues and disputes on the network. This utilizes the 'blocks' aspect of the proposed bits and blocks network. Here, 'bits' represent financial value, functioning as a distributed ledger, while 'blocks' are responsible for recording information and executing smart contracts.
